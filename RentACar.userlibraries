@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="h2-1.3.175">
+    <archive path="C:/Users/user/IdeaProjects/RentACar/driver/h2-1.3.175.jar" />
+  </library>
+  <library name="h2-1.3.1751">
+    <archive path="C:/Users/user/IdeaProjects/RentACar/driver/h2-1.3.175.jar" />
+  </library>
+</eclipse-userlibraries>
+
